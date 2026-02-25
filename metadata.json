@@ -1,0 +1,5 @@
+{
+  "name": "Gestor de Inventario Hernandez Tattoo Studio",
+  "description": "Una aplicación minimalista para gestionar inventario de almacén principal, con registro de compras y ventas.",
+  "requestFramePermissions": []
+}
